@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 
 # Функции 
 def add(x, y):
